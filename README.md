@@ -4,6 +4,12 @@
 <h1 align="center">Hi 👋, I'm Anurag Bose</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+# 💫 About Me:
+- 🔭 Currently working on **Adventor.**
+- 👯 Looking to collaborate on **web Development** and interesting tech challenges.
+- 🌱 Currently learning **Backend Development**
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragbasu039&label=Profile%20views&color=0e75b6&style=flat" alt="anuragbasu039" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragbasu039" alt="anuragbasu039" /></a> </p>
