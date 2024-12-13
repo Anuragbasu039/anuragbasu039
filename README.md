@@ -8,6 +8,7 @@
 - 🔭 Currently working on **Adventor.**
 - 👯 Looking to collaborate on **web Development** and interesting tech challenges.
 - 🌱 Currently learning **Backend Development**
+- 🌱 Currently learning **NextJS**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragbasu039&label=Profile%20views&color=0e75b6&style=flat" alt="anuragbasu039" /> </p>
