@@ -5,7 +5,7 @@
 <h3 align="center">A passionate full stack development from India</h3>
 
 # 💫 About Me:
-- 🔭 Currently working on **Adventor.**
+- 🔭 Currently working on **Clean UI.**
 - 👯 Looking to collaborate on **web Development** and interesting tech challenges.
 - 🌱 Currently learning **Backend Development**
 - 🌱 Currently learning **NextJS**
