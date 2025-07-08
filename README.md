@@ -13,7 +13,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragbasu039&label=Profile%20views&color=0e75b6&style=flat" alt="anuragbasu039" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragbasu039" alt="anuragbasu039" /></a> </p>
+## GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anuragbasu039&theme=matrix&no-frame=false&no-bg=false&margin-w=4&nocache=1"/>
+</p>
 
 <p align="left"> <a href="https://twitter.com/anuragbose_2002" target="blank"><img src="https://img.shields.io/twitter/follow/anuragbose_2002?logo=twitter&style=for-the-badge" alt="anuragbose_2002" /></a> </p>
 
@@ -51,6 +54,19 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%23008AD7.svg?style=flat&logo=microsoft-azure&logoColor=white)
 
+## GitHub Stats:
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragbasu039&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&nocache=1"/><br/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbasu039&theme=merko&hide_border=false&include_all_commits=true&count_private=true&nocache=1"/><br/>
+
+  ## Contribution Graph
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragbasu039&bg_color=0b0f0b&color=aed53a&line=aed53a&point=1eff00&area=true&hide_border=true&nocache=1"/></a>
+</p>
+
+### Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=anuragbasu039&limit=5&theme=merko&combine_all_yearly_contributions=true&nocache=1"/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragbasu039&show_icons=true&locale=en&layout=compact" alt="anuragbasu039" /></p>
 
