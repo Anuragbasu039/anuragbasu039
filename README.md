@@ -9,6 +9,7 @@
 - 👯 Looking to collaborate on **web Development** and interesting tech challenges.
 - 🌱 Currently learning **Backend Development**
 - 🌱 Currently learning **NextJS**
+- 🤖 Diving into **Machine Learning and Deep Learning** — steadily moving toward the **world of AI** to build intelligent and impactful solutions.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragbasu039&label=Profile%20views&color=0e75b6&style=flat" alt="anuragbasu039" /> </p>
