@@ -19,13 +19,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=anuragbasu039&theme=matrix&no-frame=false&no-bg=false&margin-w=4&nocache=1"/>
 </p>
 
-<p align="left"> <a href="https://twitter.com/anuragbose_2002" target="blank"><img src="https://img.shields.io/twitter/follow/anuragbose_2002?logo=twitter&style=for-the-badge" alt="anuragbose_2002" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anuragbose2002" target="blank"><img src="https://img.shields.io/twitter/follow/anuragbose2002?logo=twitter&style=for-the-badge" alt="anuragbose2002" /></a> </p>
 
 - 📫 How to reach me **anuragbasu039@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anuragbose_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragbose_2002" height="30" width="40" /></a>
+<a href="https://twitter.com/anuragbose2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragbose2002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anuragbose039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragbose039" height="30" width="40" /></a>
 <a href="https://instagram.com/_official_anurag_200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_official_anurag_200" height="30" width="40" /></a>
 </p>
